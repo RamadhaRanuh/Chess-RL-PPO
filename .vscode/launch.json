@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run chess using SFML",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/tree/main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/tree",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe"
+        }
+    ]
+}
